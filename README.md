@@ -67,6 +67,10 @@ Even if Xash3D FWGS does support targetting 64-bit, you can't load games without
 * Build pspsdk(GCC 9.3) from https://github.com/pspdev
 * Clone this repository: `git clone --recursive https://github.com/Crow-bar/xash3d-fwgs`.
 
+#### N64
+* build libdragon (Preview branch) from https://github.com/DragonMinded/libdragon/
+* Clone this current repository
+
 ### Building
 #### Windows(Visual Studio)
 0) Open command line
